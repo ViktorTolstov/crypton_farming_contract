@@ -1,7 +1,7 @@
 # Farming
 
 ## Network:
-polygon-mumbai.infura.io
+polygon-mumbai
 
 ## Contract:
 0x5001412906590F1Df2b64391721983dC49338615
